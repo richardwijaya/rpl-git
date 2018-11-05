@@ -21,4 +21,8 @@ public class Calculator{
         return 0f;
     }
 	
+	public float max(float a, float b){
+		return Math.max(a,b);
+	}
+	
 }
